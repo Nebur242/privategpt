@@ -1,0 +1,30 @@
+{
+    "id":4772215,
+    "dateModified":"2023-06-07T12:11:55Z",
+    "title":"User profiles in Windows - update v4",
+    "prerequisite":"<p>There are two types of workstations:</p>\n\n<p style=\"text-align:center\"><img alt=\"\" src=\\https://h-usl.safe.socgen/documents/4762442/4772192/img+ext+std.png/dec7412b-286c-2a2a-7e04-da092ab12b82?t=1629809748419\\ /></p>\n\n<p><br />\n </p>\n\n<p><strong>NOTE</strong>: The majority of workstations are Standard.</p>\n\n<p>The user profiles available on your workstation are as follows:</p>\n\n<p><img alt=\"\" src=\\https://h-usl.safe.socgen/documents/4762442/4772192/img+local+adm.png/edd3c060-00f6-258a-bf45-cb039d43b0a2?t=1629809748514\\ /></p>\n\n<p><strong>CAUTION</strong>: These user profiles only concern workstations. Windows and Linux servers are not affected.</p>\n\n<p>To make a profile modification request, <a href=\\http://apps.safe.socgen/mydigitalworkplace/catalog?openrequestmodule=true&amp;accessSubCategory=true&amp;categoryId=40\\>please use the request module</a>.</p>\n\n<p><em>The procedure is now complete.</em></p>",
+    "introduction":"<p> </p>\n\n<p>Administration rights are necessary in particular in the following cases:</p>\n\n<ul>\n\t<li>Debugs</li>\n\t<li>Software requirements</li>\n\t<li>Installation of packages, software</li>\n</ul>\n\n<p> </p>",
+    "conclusion":"ma conclusion",
+    "choices":[
+       {
+          "choiceTitle":"Creation of the administration account on my computer",
+          "choiceDescription":"<p><br />\nYou can check in My Digital Workplace <a href=\\https://dev-mdw-gts-dwp-a2791.hmlogp.dns21.socgen/mydigitalworkplace/user-information/accounts-passwords\\>\"Accounts &amp; Passwords\" profile page</a> that your administration rights already exist by consulting the Accounts and passwords page.</p>\n\n<p><img alt=\"\" src=\\https://h-usl.safe.socgen/documents/4762442/4772192/cptes+%282%29.png/8b3b486d-3977-7090-e3b8-702f73219307?t=1630407772892\\ /><br />\n </p>\n\n<p>If you do not have an account like here, you can request the modification of profile, directly from the page by clicking on Create my account.</p>"
+       },
+       {
+          "choiceTitle":"Activation for 24 hours of my administration right",
+          "choiceDescription":"<p><br />\nIf you already have an extended profile, you can activate your administration rights from the Accounts and passwords page:</p>\n\n<p><span id=\"cke_bm_744S\" style=\"display: none;\">&nbsp;</span><img alt=\"\" src=\\https://h-usl.safe.socgen/documents/4762442/4772192/exok.png/3455e529-85ad-6cb4-b3e8-25da9fb0ea39?t=1630408075113\\ /><br />\n </p>\n\n<p><img alt=\"\" src=\\https://h-usl.safe.socgen/documents/4762442/4772192/liste.png/bf73fe67-551b-f05b-322a-56f82dbe9787?t=1630408075162\\ /></p>"
+       }
+    ],
+    "keywords":"droit; extended ;law ;profil; habilitation;aaaaaa",
+    "relatedContentKeywords":"Windows,aaaaaaa",
+    "type":"Assistance",
+    "key":"3104062",
+    "contextualization1":[
+       
+    ],
+    "contextualization2":[
+       
+    ],
+    "rubricSEO":"",
+    "targetUrl":"https://docker-client-dev.fr.world.socgen/mydigitalworkplace/support/procedure/4772215"
+ }

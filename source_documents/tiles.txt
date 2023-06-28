@@ -1,0 +1,28 @@
+User profiles in Windows - update v4 
+
+Administration rights are necessary in particular in the following cases:
+
+
+	Debugs
+	Software requirements
+	Installation of packages, software
+
+
+ There are two types of workstations:
+
+
+
+
+ 
+
+NOTE: The majority of workstations are Standard.
+
+The user profiles available on your workstation are as follows:
+
+
+
+CAUTION: These user profiles only concern workstations. Windows and Linux servers are not affected.
+
+To make a profile modification request, please use the request module.
+
+The procedure is now complete.
